@@ -1,4 +1,4 @@
-# No_Show_Appointment
+# Medical Appointment Data Analysis
 This is an analysis of scheduled vrs honoured appointments by patients across multiple cities in Brazil
 
 This project sought to analyze a dataset on over 100,000 medical appointment information from Brazil which pivots on whether or not the patients honoured their appointments or not.
